@@ -18,8 +18,6 @@ Which protocol the user used to connect to the honeypot
 When the session started
 #### Timestamp End:		
 When the session ended
-#### Duration (s):		
-How long the session lasted
 #### Event Count:		
 How many messages were sent during the session
 #### Username(s):		
