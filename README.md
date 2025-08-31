@@ -46,4 +46,4 @@ Which SSH version the user used
 #### SSH Fingerprint:		
 The fingerprint of the user's SSH
 #### Malicious:	
-A score of 1 represents malicious while a score of 0 represents benign, scores are given out based off threat labels, reputation and the users activity during their session.
+A score of 1 represents malicious which is given to those who try to insert a username of 'root' or have a reputation score of greater than 50 while a score of 0 represents benign.
