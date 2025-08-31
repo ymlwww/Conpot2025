@@ -2,6 +2,8 @@
 
 Data was collected on our Cowrie honeypot from April 15th 2025 until July 7, 2025. IP's and hashes were checked mainly using virustotal.com with backup information and checks coming from useipdb.com, ipinfo.io, and ipqualityscore.com.
 
+# We are updating the dataset step by step, more honeypot data incoming
+
 #### Session ID:
 Unique Identifier for that users session within the honeypot.
 #### Src IP (anonymized):	
