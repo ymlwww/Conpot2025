@@ -2,6 +2,8 @@
 
 Data was collected on our Cowrie honeypot from April 15th 2025 until July 7, 2025. IP's and hashes were checked mainly using virustotal.com with backup information and checks coming from useipdb.com, ipinfo.io, and ipqualityscore.com.
 
+If you use this dataset, please cite our paper to appear in the ICC workshop 2026, Copot-2025: Six-month Observation of Honeypots
+
 # We are updating the dataset step by step, more honeypot data incoming
 
 #### Session ID:
